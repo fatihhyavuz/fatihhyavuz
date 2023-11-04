@@ -5,7 +5,7 @@
  <h3 align="center"> Web Developer </h3>
 
   <ul>
-       <li>I'm currently learning <b> python </b></li>
-       <li>Ask me about <b>HTML, CSS, BOOTSTRAPT</b></li>
+       <li>I'm currently learning <b> python. </b></li>
+       <li>Ask me about <b>HTML, CSS, BOOTSTRAPT.</b></li>
     </ul>
  
