@@ -2,10 +2,10 @@
 
 <h1 align="center">Hi, 👋 I'm Fatih Yavuz</h1>
 
- <h3 align="center"> Web Developer </h3>
+ <h3 align="center"> software student </h3>
 
   <ul>
-       <li>I'm currently learning <b> python. </b></li>
+       <li>I'm currently learning <b> javascript. </b></li>
        <li>Ask me about <b>HTML, CSS, BOOTSTRAPT.</b></li>
     </ul>
  
