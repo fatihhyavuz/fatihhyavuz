@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Tableu**
 
-- 💬 Ask me about **Python,Pandas,Numpy,SQL,PowerBI...**
+- 💬 Ask me about **Python, Pandas, Numpy, SQL, PowerBI...**
 
 - 📫 How to reach me **fatihyvz993@gmail.com**
 
