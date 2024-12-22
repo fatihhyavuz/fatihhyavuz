@@ -1,17 +1,20 @@
 <h1 align="center">Hi 👋, I'm Fatih</h1>
 <h3 align="center">A passionate Data Scientist | Machine Learning Engineer</h3>
 
+![image](https://github.com/user-attachments/assets/f42a401f-6a27-487a-8d14-4c8685dc1f6a)
+
+
 - 🔭 I’m currently working on **Machine Learning**
 
 - 🌱 I’m currently learning **Deep Learning**
 
-- 👨‍💻 All of my projects are available at [https://fatihyavuz.vercel.app/](https://fatihyavuz.vercel.app/)
+- 👨‍💻 All of my projects are available at [My Portfolio](https://fatihyavuz.vercel.app/)
 
-- 📝 I regularly write articles on [https://medium.com/@fatihyvz993](https://medium.com/@fatihyvz993)
+- 📝 I regularly write articles on [medium](https://medium.com/@fatihyvz993)
 
 - 💬 Ask me about **Python,Pandas,Numpy,SQL,Seaborn,MatplotlibPowerBI,Tableau, Machine Learning...**
 
-- 📫 How to reach me **fatihyvz993@gmail.com**
+- 📫 How to reach me **fatihyvz550@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
