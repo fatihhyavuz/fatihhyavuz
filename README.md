@@ -6,7 +6,7 @@
 
 - 🔭 I’m currently working on **Machine Learning**
 
-- 🌱 I’m currently learning **Deep Learning**
+- 🌱 I’m currently learning **NLP**
 
 - 👨‍💻 All of my projects are available at [My Portfolio](https://fatihyavuz.vercel.app/)
 
