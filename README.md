@@ -5,14 +5,16 @@
 
 
 - 🔭 I’m currently working on **Machine Learning**
-
-- 🌱 I’m currently learning **NLP**
+  
+- 🎓 I’m studying Computer Science at Saxion University of Applied Sciences
+  
+- 🌱 I’m currently learning **C++**
 
 - 👨‍💻 All of my projects are available at [My Portfolio](https://fatihyavuz.vercel.app/)
 
 - 📝 I regularly write articles on [medium](https://medium.com/@fatihyvz993)
 
-- 💬 Ask me about **Python,Pandas,Numpy,SQL,Seaborn,MatplotlibPowerBI,Tableau, Machine Learning...**
+- 💬 Ask me about **Python,C,Pandas,Numpy,SQL,Seaborn,MatplotlibPowerBI,Tableau, Machine Learning...**
 
 - 📫 How to reach me **fatihyvz550@gmail.com**
 
